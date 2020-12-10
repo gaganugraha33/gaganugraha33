@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ... Angga/Tony Stark
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
 
- 
-</br>
-</br>
 
 <div align="center">
 
