@@ -4,9 +4,9 @@
 
 <div align="left">
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaganugraha Github Stats">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaganugraha Github Stats"></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&show_icons=true" alt="gaganugraha33" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganugraha33&layout=compact&hide=html" alt="gaganugraha33" /></p>
 
 </br>
 </br>
