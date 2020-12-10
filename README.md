@@ -11,9 +11,8 @@
 
 </br>
 </br>
-</br>
-</br>
 
+<div align="left">
 
 Here are some ideas to get you started:
 
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://gaganugraha33.wixsite.com/androiddev
 - 😄 Pronouns: ... Angga/Tony Stark
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
+
+</div>
 
 <div align="center">
 
