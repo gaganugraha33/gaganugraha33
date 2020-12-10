@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... All your question is already on Stackoverflow 
 
 ---
+<div align="center">
 [![HitCount](http://hits.dwyl.com/gaganugraha33/gaganugraha33.svg)](http://hits.dwyl.com/gaganugraha33/gaganugraha33)
 
 <i>Follow me around the web:</i><br>
