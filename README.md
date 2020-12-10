@@ -7,6 +7,12 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gaganugraha Github Stats">
 
 </div>
+
+<div align="left">
+  
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganugraha33&layout=compact&hide=html&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="gaganugraha33" /></p>
+  
+  </div>
   
 
 </br>
