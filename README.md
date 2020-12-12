@@ -29,6 +29,8 @@
 ---
 [![HitCount](http://hits.dwyl.com/gaganugraha33/gaganugraha33.svg)](http://hits.dwyl.com/gaganugraha33/gaganugraha33)
 
+<i>Tech Stack:</i><br>
+
 ![Android](https://img.shields.io/badge/-android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![Kotlin](https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
