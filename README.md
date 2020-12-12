@@ -10,7 +10,7 @@
 
 ----
 
-<img align="right" alt="GIF" src="https://github.com/Arif9878/Arif9878/blob/main/code.gif?raw=true" width="200" height="200" />
+<img align="right" alt="GIF" src="https://github.com/Arif9878/Arif9878/blob/main/code.gif?raw=true" width="350" height="200" />
 
 Here are some ideas to get you started:
 
