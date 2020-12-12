@@ -27,6 +27,7 @@
 <div align="center">
 
 ---
+[![HitCount](http://hits.dwyl.com/gaganugraha33/gaganugraha33.svg)](http://hits.dwyl.com/gaganugraha33/gaganugraha33)
 
 ![Android](https://img.shields.io/badge/-android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
@@ -41,8 +42,6 @@
 ![Gitlab](https://img.shields.io/badge/-gitlab-grey?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=8E2DE2)
 ![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 ![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
-
-[![HitCount](http://hits.dwyl.com/gaganugraha33/gaganugraha33.svg)](http://hits.dwyl.com/gaganugraha33/gaganugraha33)
 
 <i>Follow me around the web:</i><br>
 
