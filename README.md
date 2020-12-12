@@ -27,6 +27,21 @@
 <div align="center">
 
 ---
+
+![Android](https://img.shields.io/badge/-android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
+![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
+![Kotlin](https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
+![Flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=flutter&logoColor=white&labelColor=8E2DE2)
+<br>
+![Swift](https://img.shields.io/badge/-swift-grey?style=for-the-badge&logo=swift&logoColor=white&labelColor=8E2DE2)
+![Firebase](https://img.shields.io/badge/-firebase-grey?style=for-the-badge&logo=firebase&logoColor=white&labelColor=8E2DE2)
+![XCode](https://img.shields.io/badge/-xcode-grey?style=for-the-badge&logo=xcode&logoColor=white&labelColor=8E2DE2)
+![Android Studio](https://img.shields.io/badge/-androidstudio-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
+<br>
+![Gitlab](https://img.shields.io/badge/-gitlab-grey?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=8E2DE2)
+![Git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
+![Github](https://img.shields.io/badge/-github-grey?style=for-the-badge&logo=github&logoColor=white&labelColor=8E2DE2)
+
 [![HitCount](http://hits.dwyl.com/gaganugraha33/gaganugraha33.svg)](http://hits.dwyl.com/gaganugraha33/gaganugraha33)
 
 <i>Follow me around the web:</i><br>
