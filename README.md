@@ -2,8 +2,6 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 Fellas! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
- <img align="right" alt="GIF" src="https://github.com/Arif9878/Arif9878/blob/main/code.gif?raw=true" width="300" height="300" />
-
 
 <div>
  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
@@ -12,6 +10,7 @@
 
 ----
 
+<div>
 
 Here are some ideas to get you started:
 
@@ -21,6 +20,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://gaganugraha33.wixsite.com/androiddev
 - 😄 Pronouns: ... Angga/Tony Stark
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
+
+<img align="right" alt="GIF" src="https://github.com/Arif9878/Arif9878/blob/main/code.gif?raw=true" width="300" height="300" />
+
+</div>
 
 
 <div align="center">
