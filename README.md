@@ -10,7 +10,7 @@
 
 ----
 <div>
-<img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" height="220" />
+<img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" height="200" />
 
 Here are some ideas to get you started:
 
