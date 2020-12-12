@@ -10,9 +10,9 @@
 
 ----
 <div>
-<img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" height="200" />
+<p><img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" height="200" /></p>
 
-Here are some ideas to get you started:
+<p>Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Jabar Digital Service
 - 🌱 I’m currently learning ... Flutter, Kotlin
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://gaganugraha33.wixsite.com/androiddev
 - 😄 Pronouns: ... Angga/Tony Stark
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
+</p>
 </div>
 
 
