@@ -4,12 +4,6 @@
 
 
 <div>
- <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganugraha33&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
-</div>
-
-----
-<div>
 <p><img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" height="200" /></p>
 
 <p>Here are some ideas to get you started:
@@ -22,6 +16,14 @@
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
 </p>
 </div>
+
+----
+
+<div>
+ <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&count_private=true&include_all_commits=true&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganugraha33&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+</div>
+
 
 
 <div align="center">
