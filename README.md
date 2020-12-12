@@ -9,7 +9,7 @@
 </div>
 
 ----
-
+<div>
 <img align="right" alt="GIF" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" width="190" height="220" />
 
 Here are some ideas to get you started:
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... https://gaganugraha33.wixsite.com/androiddev
 - 😄 Pronouns: ... Angga/Tony Stark
 - ⚡ Fun fact: ... All your question is already on Stackoverflow
+</div>
 
 
 <div align="center">
