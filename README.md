@@ -33,7 +33,6 @@
 
 <i>Tech Stack:</i><br>
 
-![Android](https://img.shields.io/badge/-android-grey?style=for-the-badge&logo=android&logoColor=white&labelColor=8E2DE2)
 ![Java](https://img.shields.io/badge/-java-grey?style=for-the-badge&logo=java&logoColor=white&labelColor=8E2DE2)
 ![Kotlin](https://img.shields.io/badge/-kotlin-grey?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=8E2DE2)
 ![Flutter](https://img.shields.io/badge/-flutter-grey?style=for-the-badge&logo=flutter&logoColor=white&labelColor=8E2DE2)
