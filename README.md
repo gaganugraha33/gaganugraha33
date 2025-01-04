@@ -1,5 +1,5 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 Fellas! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Welcome! Feel free to explore my projects and connect <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
 
@@ -11,9 +11,8 @@
 - 🔭 I’m currently working on ... Jabar Digital Service
 - 🌱 I’m currently learning ... Flutter, Kotlin
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... https://gaganugraha33.wixsite.com/androiddev
-- 😄 Pronouns: ... Angga/Tony Stark
-- ⚡ Fun fact: ... All your question is already on Stackoverflow
+- 📫 How to reach me: ... https://gagadev.netlify.app
+- ⚡ Fun fact: ... AI Making programmers feel like they’re on vacation... until it breaks
 </p>
 </div>
 
