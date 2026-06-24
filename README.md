@@ -10,11 +10,9 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-
 ### 👋 Hi, I'm Angga
+
+<img align="right" src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" width="300" alt="Coding animation" />
 
 I'm a mobile developer focused on building clean, reliable, and user-friendly applications for Android, Flutter, and iOS. I enjoy turning product ideas into scalable mobile experiences with thoughtful architecture, smooth UI, and maintainable code.
 
@@ -24,12 +22,7 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 - 💬 Ask me about mobile development, app architecture, Firebase, Kotlin, Flutter, or developer tooling
 - ⚡ Fun fact: AI makes developers feel like they are on vacation... until the build breaks
 
-    </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://github.com/gaganugraha33/gaganugraha33/blob/main/code.gif?raw=true" width="300" alt="Coding animation" />
-    </td>
-  </tr>
-</table>
+<br clear="right" />
 
 ---
 
