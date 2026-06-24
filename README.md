@@ -71,7 +71,7 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 ### 📊 GitHub Contributions
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=CBD5E1&bg_color=0F172A" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gaganugraha33&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=2563EB&text_color=CBD5E1&bg_color=0F172A&custom_title=Gaganugraha33%27s%20GitHub%20Stats" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaganugraha33&layout=compact&langs_count=8&hide_border=true&title_color=7C3AED&text_color=CBD5E1&bg_color=0F172A" alt="Top languages" />
 </div>
 
