@@ -20,9 +20,26 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 - 📱 Focused on **Android Native**, **Flutter**, and **iOS development**
 - 🧠 Learning deeper mobile architecture, performance tuning, and AI-assisted workflows
 - 💬 Ask me about mobile development, app architecture, Firebase, Kotlin, Flutter, or developer tooling
+- 🤝 Open to collaboration on impactful mobile products and developer tooling
 - ⚡ Fun fact: AI makes developers feel like they are on vacation... until the build breaks
 
 <br clear="right" />
+
+---
+
+### 🚀 Featured Focus
+
+<div align="center">
+
+| Area | What I Build | Tech I Use |
+| --- | --- | --- |
+| **Android Apps** | Scalable native apps with clean architecture and maintainable features | Kotlin, Java, Jetpack, MVVM, Firebase |
+| **Flutter Apps** | Cross-platform mobile experiences with polished UI and reliable state flow | Dart, Flutter, REST API, Firebase |
+| **Mobile Engineering** | App architecture, performance tuning, release readiness, and team workflows | Git, CI/CD, Crashlytics, Analytics |
+
+</div>
+
+> Want to collaborate on a mobile app or discuss engineering ideas? Feel free to reach out through my portfolio or LinkedIn.
 
 ---
 
@@ -37,6 +54,7 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 #### Mobile Platforms & Tools
 
@@ -45,6 +63,7 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Crashlytics](https://img.shields.io/badge/Crashlytics-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### Workflow
 
@@ -53,6 +72,8 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-0F172A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2563EB?style=for-the-badge&logo=githubactions&logoColor=white)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-7C3AED?style=for-the-badge&logo=dependabot&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-0F172A?style=for-the-badge&logo=archlinux&logoColor=white)
 
 </div>
 
@@ -95,8 +116,6 @@ I'm a mobile developer focused on building clean, reliable, and user-friendly ap
   <a href="https://gagadev.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/angga-nugraha-785b43ba" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/gaganugraha92" target="_blank"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.facebook.com/angga.nugraha.7543" target="_blank"><img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://open.spotify.com/user/21hoz3gmzmo6syiuirmwbm7hy" target="_blank"><img src="https://img.shields.io/badge/Spotify-Playlist-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Spotify" /></a>
 </div>
 
 <br />
